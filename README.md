@@ -10,7 +10,7 @@
 - 🤝 I’m looking for help with **interesting ideas**
 
 - 📫 How to reach me **david.campos@bootcamp-upgrade.com**
-- <img loading="lazy" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="trinib" class="d-block width-full">
+- <img right loading="lazy" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="trinib" class="d-block width-full">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
