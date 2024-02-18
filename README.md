@@ -6,7 +6,7 @@
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/112029342/195459216-f112d4b1-c467-482f-8015-f5137026ddaf.gif" target="_blank">    
   <span data-target="animated-image.imageContainer">
       <img data-target="animated-image.replacedImage" alt="195459216-f112d4b1-c467-482f-8015-f5137026ddaf.gif" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/112029342/195459216-f112d4b1-c467-482f-8015-f5137026ddaf.gif" style="display: block; opacity: 1;">
-    <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="846" height="263"></canvas></span></a>
+    <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="846" height="203"></canvas></span></a>
   <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 195459216-f112d4b1-c467-482f-8015-f5137026ddaf.gif" hidden=""></button>
   <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
     <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 195459216-f112d4b1-c467-482f-8015-f5137026ddaf.gif">
