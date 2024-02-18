@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Campos</h1>
 <h3 align="center">A passionate Full Stack Developer Junior</h3>
-<img align="right" loading="lazy" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="trinib" class="d-block width-full">
+<img width="350" height="300" align="right" loading="lazy" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="trinib" class="d-block width-full">
 - 🔭 I’m currently working on **My master proyects**
 
 - 🌱 I’m currently learning **Angular, React, Java, ...all i can**
@@ -20,7 +20,7 @@
       <p dir="auto"><animated-image data-catalyst="" style="float: right; width: 400px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" data-target="animated-      image.originalLink"><img width="400" height="250"align="right" alt="Gif" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" target="_blank">
-      <p><img align="center" width="350" height="300"src="https://github-readme-stats.vercel.app/api/top-langs?username=dcampos78&show_icons=true&locale=en&layout=compact" alt="dcampos78" /></p>     
+      <p><img align="center" width="350" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcampos78&show_icons=true&locale=en&layout=compact" alt="dcampos78" /></p>     
 </div>
 
 
