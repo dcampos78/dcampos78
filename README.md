@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Campos</h1>
 <h3 align="center">A passionate Full Stack Developer Junior</h3>
-<img width="350" height="150" align="right" loading="lazy" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="trinib" class="d-block width-full">
+
 - 🔭 I’m currently working on **My master proyects**
 
 - 🌱 I’m currently learning **Angular, React, Java, ...all i can**
