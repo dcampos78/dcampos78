@@ -27,15 +27,11 @@
 </span></animated-image>
 </div>
 
-- 🔭 I’m currently working on **My master proyects**
+- 🔭 I’m currently working on **My master proyects**                                                                                                                        - 🌱 I’m currently learning **Angular, React, Java, ...all i can**
 
-- 🌱 I’m currently learning **Angular, React, Java, ...all i can**
+- 👯 I’m looking to collaborate on **Interesting Projects**                                                                                                                  - 🤝 I’m looking for help with **interesting ideas**
 
-- 👯 I’m looking to collaborate on **Interesting Projects**
-
-- 🤝 I’m looking for help with **interesting ideas**
-
-- 📫 How to reach me **david.campos@bootcamp-upgrade.com**
+                                                                                                - 📫 How to reach me **david.campos@bootcamp-upgrade.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-campos-pousa-47b02142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/david-campos-pousa-47b02142" height="30" width="40" /></a>
