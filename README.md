@@ -10,8 +10,8 @@
 - 🤝 I’m looking for help with **interesting ideas**
 
 - 📫 How to reach me **david.campos@bootcamp-upgrade.com**
-- <img right loading="lazy" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="trinib" class="d-block width-full">
-<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 400px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" data-target="animated-image.originalLink"><img align="right" alt="Gif" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+-<img align="right" loading="lazy" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="trinib" class="d-block width-full">
+<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 400px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" data-target="animated-image.originalLink"><img align="right" alt="Gif" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" style="max-width: 85%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" target="_blank">
 <h3 align="left">Connect with me:</h3>
