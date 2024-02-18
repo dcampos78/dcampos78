@@ -20,7 +20,7 @@
       <p dir="auto"><animated-image data-catalyst="" style="float: right; width: 400px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" data-target="animated-      image.originalLink"><img width="500" height="300"align="right" alt="Gif" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" target="_blank">
-      <p><img align="center" width="500" height="500"src="https://github-readme-stats.vercel.app/api/top-langs?username=dcampos78&show_icons=true&locale=en&layout=compact" alt="dcampos78" /></p>     
+      <p><img align="center" width="500" height="500"src="https://github-readme-stats.vercel.app/api/top-langs?username=dcampos78&show_icons=true&locale=en&layout=compact" alt="dcampos78" margin="0"/></p>     
 </div>
 
 
