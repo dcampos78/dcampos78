@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Campos</h1>
 <h3 align="center">A passionate Full Stack Developer Junior</h3>
-
-- 🔭 I’m currently working on **My master proyects**
 <img align="right" loading="lazy" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="trinib" class="d-block width-full">
+- 🔭 I’m currently working on **My master proyects**
+
 - 🌱 I’m currently learning **Angular, React, Java, ...all i can**
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **david.campos@bootcamp-upgrade.com**
   
-<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 400px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" data-target="animated-image.originalLink"><img align="right" alt="Gif" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" style="max-width: 85%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 400px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" data-target="animated-image.originalLink"><img align="right" alt="Gif" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" style="max-width: 65%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" target="_blank">
 <h3 align="left">Connect with me:</h3>
