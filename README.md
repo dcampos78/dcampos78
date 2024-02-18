@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Campos</h1>
 <h4 align="center">A passionate Full Stack Developer Junior</h3>
 <div dir="auto">
-<animated-image data-catalyst="" style="width: 1020px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/112029342/195459216-f112d4b1-c467-482f-8015-f5137026ddaf.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/112029342/195459216-f112d4b1-c467-482f-8015-f5137026ddaf.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<animated-image data-catalyst="" style="width: 1820px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/112029342/195459216-f112d4b1-c467-482f-8015-f5137026ddaf.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/112029342/195459216-f112d4b1-c467-482f-8015-f5137026ddaf.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/112029342/195459216-f112d4b1-c467-482f-8015-f5137026ddaf.gif" target="_blank">    
   <span data-target="animated-image.imageContainer">
@@ -28,7 +28,7 @@
 </div>
 - 🔭 I’m currently working on **My master proyects**                                                                                                                        - 🌱 I’m currently learning **Angular, React, Java, ...all i can**
 
-- 👯 I’m looking to collaborate on **Interesting Projects**                                                                                                                  - 🤝 I’m looking for help with **interesting ideas**
+- 👯 I’m looking to collaborate on **Interesting Projects**                                                                                                                 - 🤝 I’m looking for help with **interesting ideas**
 
 - 📫 How to reach me **david.campos@bootcamp-upgrade.com**
 <h3 align="left">Connect with me:</h3>
